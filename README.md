@@ -1,7 +1,13 @@
 # RAG_pytorch_lightning
+
+## 소개
+RAG 논문 속 RAG Token 방식으로 MRC 문제를 풀도록 구현했습니다.
+
+**Reference** : [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+
+## 구조
 ![image](https://github.com/DonghaeSuh/RAG_pytorch_lightning/assets/82081872/6051cc0e-4691-48be-b3e0-6c97aa150f60)
 
-[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 ## 상세한 코드 및 학습 원리 정리
 [블로그 링크](https://blog.naver.com/gypsi12/223363251966)
 
